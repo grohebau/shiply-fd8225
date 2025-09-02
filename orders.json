@@ -1,0 +1,47 @@
+{
+  "P52718": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Jens Plückhahn, Pestalozzistraße 12, 27474 Cuxhaven, Deutschland",
+    "receiver": "Tim Thoss, Arsena Vivode 1, 52440 Porec, Kroatien",
+    "price": "5.100 €",
+    "description": "Hersteller: Yamaha<br>Typ: XVS 1300<br>Fahrgestelnummer: JYAVP261000001791<br>Erstzulassung: 21/09/2014<br>KM laut Vorbesitzer: 28000 km<br>Leistung: 53 KW<br>Hubraum: 1304 cm³<br>Farbe: Blau<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Tim Thoss<br>Arsena Vivode 1<br>52440 Porec<br>Kroatien<br>Telefon: +385 977431581",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "02-09-2025",
+    "deliveryDate": "08-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
