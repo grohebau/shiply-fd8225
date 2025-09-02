@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Arsena Vivode 1",
+      "postal_code": "52440",
+      "city": "Porec",
+      "country": "Kroatien",
+      "lat": "45.220510565549915",
+      "lng": "13.596168608673231"
     }
   }
 }
